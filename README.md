@@ -1,8 +1,5 @@
 # Hi, I'm Amishi! 👋
-
-🎓 Third-year Computer Science Student @ UBC  
-💻 Software Developer  
-🚀 Passionate about building meaningful software 
+I'm a third-year Computer Science student at the University of British Columbia, passionate about building creative solutions that make a real-world impact.
 
 ## 💻 Technologies
 
