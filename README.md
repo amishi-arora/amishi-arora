@@ -4,6 +4,9 @@
 💻 Software Developer  
 🚀 Passionate about building meaningful software 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amishi-arora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amishiarora.netlify.app/)
+
 ## 💻 Technologies
 
 ### Languages
